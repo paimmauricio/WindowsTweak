@@ -40,17 +40,16 @@ Este script foi desenvolvido para otimizar e ajustar configurações do Windows,
 3. Extraia o arquivo ZIP para uma pasta de fácil acesso, como a Área de Trabalho.
 4. Alternativamente, você pode baixar o script diretamente usando o PowerShell:
    ```powershell
-   Invoke-WebRequest -Uri "https://github.com/paimmauricio/WindowsTweak/WindowsTweak.ps1" -OutFile "WindowsTweak.ps1"  
+   Invoke-WebRequest -Uri "https://github.com/paimmauricio/WindowsTweak/blob/main/WindowsTweak.ps1" -OutFile "WindowsTweak.ps1"  
    ```
-   *(Substitua a URL pelo link real do script no seu repositório.)*
 
 ### 🔍 **2. Execute como Administrador**
 
-- Clique com o **botão direito** no arquivo **Tweak.ps1** e selecione **"Executar com o PowerShell"**.
+- Clique com o **botão direito** no arquivo **WindowsTweak.ps1** e selecione **"Executar com o PowerShell"**.
 - Ou abra o PowerShell na pasta onde baixou o script e execute:
   ```powershell
   Set-ExecutionPolicy Unrestricted -Scope Process  
-  .\Tweak.ps1  
+  .\WindowsTweak.ps1  
   ```
   - Se for solicitado, confirme pressionando **"S"** e **Enter**.
 
@@ -72,7 +71,8 @@ Este script foi desenvolvido para otimizar e ajustar configurações do Windows,
 ---
 
 ## ⚠️ Importante
-
+- **Execute antes em uma máquina virtual
+- **Crie um ponto de restauração
 - **Se algo não funcionar como esperado, use a opção de restauração** para voltar ao estado anterior.
 - **Este script foi testado em versões recentes do Windows**, mas recomenda-se criar um backup completo do sistema antes de utilizá-lo.
 
