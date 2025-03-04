@@ -84,7 +84,10 @@ Se este script foi útil para você e deseja apoiar o projeto, considere fazer u
 
 ### 💳 Via transferência Unibanco
 - **Agência:** 8488  
-- **C/C:** 0047854-9  
+- **C/C:** 0047854-9
+
+### 🏦 Via Pix  
+📌 Chave Pix: paim.mauricio@gmail.com
 
 ### 💰 Via QR Code PayPal
 [![QR Code PayPal](https://github.com/paimmauricio/Script-Rede/blob/main/QRs/QR_Code_PayPal.png)](https://github.com/paimmauricio/Script-Rede/blob/main/QRs/QR_Code_PayPal.png)
