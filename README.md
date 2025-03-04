@@ -1,3 +1,5 @@
+![Logo of the project](https://github.com/paimmauricio/Script-Rede/blob/main/imagens/logo.png)
+
 # 🛠 Windows Tweak & Backup Script
 
 ## 📌 Sobre este script
