@@ -86,9 +86,6 @@ Se este script foi útil para você e deseja apoiar o projeto, considere fazer u
 - **Agência:** 8488  
 - **C/C:** 0047854-9  
 
-### 📲 Via QR Code Mercado Pago
-[![QR Code Mercado Pago](https://github.com/paimmauricio/Script-Rede/blob/main/QRs/QR_Code_ML.pdf)](https://github.com/paimmauricio/Script-Rede/blob/main/QRs/QR_Code_ML.pdf)
-
 ### 💰 Via QR Code PayPal
 [![QR Code PayPal](https://github.com/paimmauricio/Script-Rede/blob/main/QRs/QR_Code_PayPal.png)](https://github.com/paimmauricio/Script-Rede/blob/main/QRs/QR_Code_PayPal.png)
 
