@@ -40,7 +40,7 @@ Este script foi desenvolvido para otimizar e ajustar configurações do Windows,
 3. Extraia o arquivo ZIP para uma pasta de fácil acesso, como a Área de Trabalho.
 4. Alternativamente, você pode baixar o script diretamente usando o PowerShell:
    ```powershell
-   Invoke-WebRequest -Uri "https://raw.githubusercontent.com/seu-repositorio-aqui/Tweak.ps1" -OutFile "Tweak.ps1"  
+   Invoke-WebRequest -Uri "https://github.com/paimmauricio/WindowsTweak/WindowsTweak.ps1" -OutFile "WindowsTweak.ps1"  
    ```
    *(Substitua a URL pelo link real do script no seu repositório.)*
 
