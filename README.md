@@ -71,8 +71,8 @@ Este script foi desenvolvido para otimizar e ajustar configurações do Windows,
 ---
 
 ## ⚠️ Importante
-- **Execute antes em uma máquina virtual
-- **Crie um ponto de restauração
+- **Execute antes em uma máquina virtual**
+- **Crie um ponto de restauração**
 - **Se algo não funcionar como esperado, use a opção de restauração** para voltar ao estado anterior.
 - **Este script foi testado em versões recentes do Windows**, mas recomenda-se criar um backup completo do sistema antes de utilizá-lo.
 
