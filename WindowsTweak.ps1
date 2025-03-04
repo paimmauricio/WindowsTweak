@@ -99,7 +99,6 @@ $tasks = @(
     "\Microsoft\Windows\Defrag\*",
     "\Microsoft\Windows\Maintenance\*",
     "\Microsoft\Windows\Power Efficiency Diagnostics\*",
-    "\Microsoft\Windows\WindowsUpdate\*",
     "\Microsoft\Windows\DiskCleanup\*",
     "\Microsoft\Windows\CloudExperienceHost\*",
     "\Microsoft\Windows\Feedback\*",
