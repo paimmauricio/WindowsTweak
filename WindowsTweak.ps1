@@ -114,8 +114,7 @@ foreach ($task in $tasks) {
 Write-Host "Desativando recursos desnecessários do Windows..."
 $features = @(
     "WindowsMediaFeatures", "Internet-Explorer-Optional-amd64",
-    "Microsoft-Windows-Subsystem-Linux", "WorkFolders-Client",
-    "Microsoft-Hyper-V-All", "Windows-Defender-Default-Definitions"
+    "Microsoft-Windows-Subsystem-Linux", "WorkFolders-Client", "Windows-Defender-Default-Definitions"
 )
 foreach ($feature in $features) {
     Disable-WindowsOptionalFeature -Online -FeatureName $feature -NoRestart -ErrorAction SilentlyContinue
